@@ -16,19 +16,16 @@ footer {
 
 .HolyGrail-body {
   display: flex;
-  flex: 1;
+  flex: auto;
 }
 
 .HolyGrail-content {
+  flex: 3;
+}
+
+.HolyGrail-nav {
+  
   flex: 1;
-}
-
-.HolyGrail-nav {
-  
-  flex: 0 0 12em;
-}
-
-.HolyGrail-nav {
-  
   order: -1;
 }
+
