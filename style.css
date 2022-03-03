@@ -5,11 +5,14 @@ color:green;
 
 .HolyGrail {
   display: flex;
-  min-height: 100vh;
+  
   flex-direction: column;
 }
 
-header,
+
+header {
+  flex: 1;
+}
 footer {
   flex: 1;
 }
