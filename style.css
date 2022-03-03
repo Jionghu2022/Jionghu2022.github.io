@@ -10,12 +10,7 @@ color:green;
 }
 
 
-header {
-  flex: 1;
-}
-footer {
-  flex: 1;
-}
+
 
 .HolyGrail-body {
   display: flex;
