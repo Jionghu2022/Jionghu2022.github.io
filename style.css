@@ -5,12 +5,8 @@ color:green;
 
 .HolyGrail-body {
   display: flex;
-  
   flex-direction: column;
 }
-
-
-
 
 .HolyGrail-main {
   display: flex;
@@ -22,7 +18,6 @@ color:green;
 }
 
 .HolyGrail-aside {
-  
   flex: 1;
 }
 
