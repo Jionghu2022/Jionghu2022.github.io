@@ -3,7 +3,7 @@ a:hover
 color:green;
 }
 
-.HolyGrail {
+.HolyGrail-body {
   display: flex;
   
   flex-direction: column;
@@ -12,16 +12,16 @@ color:green;
 
 
 
-.HolyGrail-body {
+.HolyGrail-main {
   display: flex;
   flex: auto;
 }
 
-.HolyGrail-content {
+.HolyGrail-article {
   flex: 3;
 }
 
-.HolyGrail-nav {
+.HolyGrail-aside {
   
   flex: 1;
 }
