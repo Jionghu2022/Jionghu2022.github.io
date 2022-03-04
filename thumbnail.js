@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
     targetImage.addEventListener("click", function () {
 
-        argetImage.classList.remove("small");
+        targetImage.classList.remove("small");
 
     });
 
